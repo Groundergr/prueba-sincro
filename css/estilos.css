@@ -1,0 +1,39 @@
+body{
+background-color: aquamarine;
+}
+a{
+    text-decoration: none;
+}
+ a:hover[href]{
+      color: blue;
+    }
+
+li{
+list-style:none;
+display:inline-block;
+border:10px solid rgb(74, 20, 144);
+padding:10px 30px;
+margin-right:20px;
+margin-left: 30px;
+background-color:rgb(222, 217, 226);
+font-family:arial rgb(213, 209, 209);
+border-width: 4px 4px 4px 14px;
+box-shadow: 10px 5px 5px rgb(93, 36, 36)
+}
+ .needs-validation .form-control:invalid {
+      border-color: #dc3545;
+    }
+    .needs-validation .form-control:valid {
+      border-color: #198754;
+    }
+#registro{
+    display:inline-block;
+border:10px solid rgb(74, 20, 144);
+padding:10px 30px;
+margin-right:20px;
+margin-left: 30px;
+background-color:rgb(222, 217, 226);
+font-family:arial rgb(213, 209, 209);
+border-width: 4px 4px 4px 14px;
+box-shadow: 10px 5px 5px rgb(93, 36, 3);
+}
