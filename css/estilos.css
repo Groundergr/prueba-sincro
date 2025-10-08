@@ -37,3 +37,15 @@ font-family:arial rgb(213, 209, 209);
 border-width: 4px 4px 4px 14px;
 box-shadow: 10px 5px 5px rgb(93, 36, 3);
 }
+  .btn-primary {
+    background-color: blue !important; 
+    color: white; /* Color del texto */
+}
+
+.btn-primary:hover {
+    background-color: #bf92ce !important; 
+    border-color: #0096aa !important;
+}
+.btn-outline-dark{
+  background-color: aquamarine !important;
+}
